@@ -1,4 +1,5 @@
 🩺MediCare Plus - Java Swing Application
+![MediCare Animation](https://github.com/Nirmalkoswatta/main/Animation%20-%201732364926052.gif)
 
 
 
